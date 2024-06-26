@@ -5,34 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OOP_Projects.Inheritance
-{
-   
-    //Inheritance It’s a mechanism that allows a class to inherit properties and behaviors from another class. 
-    //First: Defind base class (parent) 
-    public class Fruits 
+{    public class Fruits // Base class (parent) 
     {
-        //Second: assign propreties 
-        public string Country = "Austraila";
-        //Third: Add method 
-        public void eat() //method 
+        //propreties 
+        public string Country = "Australia";
+
+        //method 
+        public void eat() 
         {
-            Console.WriteLine("Eating fruits is healthy all the time");
+            Console.WriteLine("Australian fruits are delicious ");
         }
     }
-    //Fourth :Defind derived class (child)
+    //Derived class (child)
     public class Appel : Fruits
     {
-
-        public string Color = "red";
+        public string Color = "red apple";
     }
-    public class Orang : Fruits 
-    { 
-        public string Weight { get; set; }
-       
-    }
-
-   
-
-
-
 }

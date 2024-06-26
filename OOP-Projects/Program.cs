@@ -1,15 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-using OOP_Projects.Inheritance;
+﻿using OOP_Projects.Inheritance;
 
-Console.WriteLine("Hello, World!");
-
-
-//call the drevied class
-Appel appel = new Appel();
-//call the method 
-
-appel.eat(); // return the value mentioned in the class 
+//Inheritance example
+Appel appel = new Appel();//call the child class
+Console.WriteLine(appel.Color + " " + appel.Country);
+appel.eat(); // child class return the value of the parent class 
+/*****************************************************************/
 
 
-//Print 
-Console.WriteLine(appel.Country + " " + appel.Color);
