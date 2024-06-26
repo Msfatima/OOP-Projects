@@ -1,0 +1,14 @@
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\bin\Debug\net8.0\OOP-Projects.exe
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\bin\Debug\net8.0\OOP-Projects.deps.json
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\bin\Debug\net8.0\OOP-Projects.runtimeconfig.json
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\bin\Debug\net8.0\OOP-Projects.dll
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\bin\Debug\net8.0\OOP-Projects.pdb
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.AssemblyInfoInputs.cache
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.AssemblyInfo.cs
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.csproj.CoreCompileInputs.cache
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.dll
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\refint\OOP-Projects.dll
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.pdb
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.genruntimeconfig.cache
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\ref\OOP-Projects.dll
