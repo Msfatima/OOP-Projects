@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OOP_Projects.Inheritance
-{    public class Fruits // Base class (parent) 
+{    public class Fruits // Base class (parent) - Default constructor
     {
         //propreties 
         public string Country = "Australia";
