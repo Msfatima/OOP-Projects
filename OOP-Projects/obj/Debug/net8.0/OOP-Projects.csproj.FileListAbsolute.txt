@@ -12,3 +12,4 @@ C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\r
 C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.pdb
 C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.genruntimeconfig.cache
 C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\ref\OOP-Projects.dll
+C:\Users\fatimah.hamid\source\repos\OOP-Projects\OOP-Projects\obj\Debug\net8.0\OOP-Projects.sourcelink.json
